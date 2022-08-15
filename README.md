@@ -21,7 +21,7 @@
 - 😄 Pronouns: Ele/Dele
 
 
-Nesse perfil gostamos tanto de Johnny Cash quanto de Freddie Mercury e Van Halen.
 
-Assim como louvamos as Ipa's e WeissBiers
+
+
 
