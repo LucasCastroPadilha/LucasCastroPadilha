@@ -1,4 +1,4 @@
-### Heyy meu Chapa👋, eu sou o Lucas
+### Heyy, eu sou o Lucas.
 
 
 
