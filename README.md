@@ -1,4 +1,4 @@
-### Heyy meu Chapa👋, eu sou o Lucas XD
+### Heyy meu Chapa👋, eu sou o Lucas
 
 
 
@@ -16,9 +16,8 @@
 
 
 
-- 👔 Pretendo trabalhar com Ciência de Dados
-- 🎯 Estou focando nos estudos relacionados a DS, como Python e as Libs mais usadas na área, tais como Sklearn, Pandas, MatplotLib, Seaborn, etc...
-- 😄 Pronouns: Ele/Dele
+- 👔 Pretendo trabalhar com Análise de Dados
+- 🎯 Estou focando nos estudos relacionados a DS, como Python e as Libs mais usadas na área, tais como Sklearn, Pandas, MatplotLib, Seaborn, além da ferramneta Power BI.
 
 
 
